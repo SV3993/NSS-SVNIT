@@ -3,7 +3,8 @@
 Welcome to the NSS-SVNIT website! This project is a dynamic platform for the NSS community at Sardar Vallabhbhai National Institute of Technology. It's built using React and Bootstrap, offering features to keep you informed and engaged.
 
 
-##Live Site Here:-
+## Live Site Here:- 
+https://sv3993.github.io/NSS-SVNIT/
 
 ## Features
 
